@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/curvesapi-1.05.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/jaxb-impl-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/poi-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/poi-examples-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/poi-excelant-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/poi-ooxml-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/poi-ooxml-schemas-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/poi-scratchpad-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Desktop/Jar/xmlbeans-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Documents/Java/Unzippjexcelapi/JFlex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Babek Chalabi/Documents/Java/Unzippjexcelapi/jxl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
